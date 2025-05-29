@@ -81,6 +81,6 @@ Full project requirements and specifications available in:
 - [CMPS102-Project-Fall2024-Phase2.pdf](https://drive.google.com/file/d/1SzBFhviDbPYZ0f9ZgZnPAQ_RLaCj5_-Z/view?usp=sharing)
  ## 👤 Author  
 📌 **Ahmed Attay**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-attay-173888252/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmedattay/)  
 ## 📜 License  
 This project is open-source and free to use under the **MIT License**.  
